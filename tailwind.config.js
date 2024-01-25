@@ -1,5 +1,4 @@
 const { colors } = require('tailwindcss/defaultTheme')
-
 module.exports = {
   content: [
     "./resources/**/*.blade.php",
